@@ -6,3 +6,8 @@ plotly
 scikit-learn
 statsmodels
 openpyxl
+geopandas
+pyogrio
+geopy
+geodatasets
+seaborn
